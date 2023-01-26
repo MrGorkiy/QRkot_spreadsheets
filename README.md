@@ -1,5 +1,5 @@
 # Приложение QRKot
-![example workflow](https://github.com/MrGorkiy/cat_charity_fund/actions/workflows/cat_charity_fund.yml/badge.svg)
+![example workflow](https://github.com/MrGorkiy/QRkot_spreadsheets/actions/workflows/cat_charity_fund.yml/badge.svg)
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=ffffff&color=043A6B)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-464646?style=flat&logo=FastAPI&logoColor=ffffff&color=043A6B)](https://fastapi.tiangolo.com/)
 [![FastAPI-Users](https://img.shields.io/badge/-FastAPI_Users-464646?style=flat&logo=FastAPI&logoColor=ffffff&color=043A6B)](https://pypi.org/project/fastapi-users/)
