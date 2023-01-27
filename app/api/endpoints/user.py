@@ -31,5 +31,5 @@ def delete_user(id: str):
     """Не используйте удаление, деактивируйте пользователей."""
     raise HTTPException(
         status_code=status.HTTP_405_METHOD_NOT_ALLOWED,
-        detail="Удаление пользователей запрещено!"
+        detail='Удаление пользователей запрещено!'
     )
